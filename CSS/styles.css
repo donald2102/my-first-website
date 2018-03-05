@@ -9,16 +9,16 @@ nav ul {
     list-style: none;
     text-align: center;
     background-color: grey;
-    margin: 0;
-    padding: 0;
+    margin: 0%;
+    padding: 0%;
 }
 
 nav li {
-    font-size:large;
+    font-size: xx-large;
     color: black;
     display: inline-block;
-    line-height: 20px;
-    height: 20px;
+    line-height: 30px;
+    height: 10px;
     margin: 2.5%;
 }
 
@@ -41,6 +41,7 @@ h1 {
 } 
 
 
+
 .card {
     float: left;
     width: 20%;
@@ -48,10 +49,83 @@ h1 {
     
 }
 
+
 img {
     width: 100%;
+
     
 }
 
+h2 {
+    font-size: larger;
+    text-align: center;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+#html:hover {
+    background-color: red;
+    color: #ffffff;
+}
+
+#css:hover {
+    background-color: blue;
+    color: #ffffff;
+}
+
+#JavaScript:hover {
+    background-color:yellow;
+    color: black;
+}
+
+#cloud9:hover {
+    background-color: #42b3f4;
+    color: #ffffff;
+}
+
+#git:hover {
+    background-color: #e5470d;
+    color: black;
+}
+
+#gitHub:hover {
+    background-color: #000000;
+    color: #ffffff;
+}
     
+#python:hover {
+    background-color:yellow;
+    color:blue;
+}
+
+#flask:hover {
+    background-color:grey; 
+    color:black;
+}
+
+#MongoDb:hover {
+    background-color:green;
+    color:black;
+}
+
+#MySQL:hover {
+    background-color:#42b3f4;
+    color:orange;
+}
+
+#django:hover {
+    background-color: #145a32;
+    color: #ffffff;
+}
+
+#heroku:hover {
+    background-color:#6600CC;
+    color:#ffffff;
+}
+
+
 
