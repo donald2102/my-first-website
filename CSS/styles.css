@@ -25,6 +25,7 @@ nav li {
 nav a {
     text-decoration: none;
     display: block;
+    color:black;
 }    
 
     
@@ -60,6 +61,7 @@ h2 {
     font-size: larger;
     text-align: center;
     text-decoration: none;
+    color:black;
 }
 
 a {
